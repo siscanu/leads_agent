@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+requests
+tzlocal
+agno
+colorama
+aiohttp
